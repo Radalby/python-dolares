@@ -40,3 +40,5 @@ bolivar_Recortado = cambio_Bolivares*bolivar
 
 print("Tiene que dar: %f" %(dolares_Recortado) +" Dolares")
 print("Tiene que dar: %f" %(bolivar_Recortado) +" Bolivares")
+
+#por jijija
